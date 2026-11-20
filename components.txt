@@ -1,0 +1,13 @@
+Components Used
+
+-ESP32 Development Board
+ADXL345  Sensor
+ACS702 Sensor
+DHT22 Sensor
+Small motor
+LED
+220Ω Resistor
+Buzzer
+18650 Battery
+Breadboard
+Jumper Wires
